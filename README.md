@@ -1,2 +1,2 @@
 # musicPlayer.github.io
-Music Player WebVersion
+Music player web version designed purely using html,css and Javascript.
